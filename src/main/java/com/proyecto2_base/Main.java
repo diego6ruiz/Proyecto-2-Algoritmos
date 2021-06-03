@@ -142,7 +142,7 @@ public class Main {
        System.out.println ("2. Eliminar un elemento");
        System.out.println ("3. Crear una relacion entre elementos");
        System.out.println ("4. Recomendacion en base a actores");
-       System.out.println ("5. Recomendacion en base a lo que les gusta a mis amigos");
+       System.out.println ("5. 5. Listar peliculas de un actor");
        System.out.println ("6. Salir");
        
        x=scanner.nextInt();
